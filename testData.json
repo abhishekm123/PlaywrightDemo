@@ -1,0 +1,14 @@
+{
+"username":"mukesh@gmail.com",
+"password":"admin@123",
+"name":"Abhishek",
+"interest":["JavaScript","Playwright","API Testing"],
+"gender":"Male",
+"Address":{
+     "Area": "Bada Bangrda",
+     "city": "Indore",
+     "state": "Madhya Pradesh"
+
+}
+
+}
