@@ -1,4 +1,4 @@
-import {test,expect} from '@playwright/test';
+import {test} from '@playwright/test';
 
 test('working with multiple windows', async ({browser}) => {
   // Navigate to the page that triggers an alert
