@@ -1,3 +1,13 @@
+# Precondition 
+Node 14+ above should be installed
+
+clone above repo
+git clone https://github.com/abhishekm123/PlaywrightDemo
+Execute belo command 
+npm install 
+to execute test 
+npx playwright test ./tests/dropdown.spec
+
 # Playwright_AbhishekM
 
 Playwright test automation project.
