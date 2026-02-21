@@ -8,6 +8,6 @@ test("google test", async function({page}) {
       const title = await page.title();
 
     console.log("page title is:", title)
-    expect(title).toHaveTitle("Google");
+    expect(title).toBe("Google");
         
     });
